@@ -1,0 +1,1 @@
+How can you implement a Java program that reads two whole numbers from the user and performs division while handling potential exceptions, including division by zero, invalid input, and any other unforeseen exceptions? Ensure that resources such as the `Scanner` object are properly closed after usage.
